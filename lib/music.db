@@ -1,0 +1,4 @@
+INSERT INTO songs (name, album)
+VALUES ("Blinding lights", "After Hours");
+INSERT INTO songs (name, album)
+VALUES ("Hello", "25");
